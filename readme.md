@@ -6,3 +6,4 @@ A los efectos del trabajo final realizaré un ecommerce para una tienda de ropa 
 
 # Link diseño a Figma:
  https://www.figma.com/file/qsOhVr1pSm8Kq7NdK3DLWs/Algo-Bonito?type=design&node-id=0%3A1&mode=design&t=vTuaXH6siERAyqGL-1
+
